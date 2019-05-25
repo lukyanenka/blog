@@ -9,12 +9,12 @@ body {
 
 .main-part {
     position: relative;
-    width: 70%;
+    width: 75%;
     float: left;
 }
 .secondary-part {
     text-align: right;
-    width: 25%;
+    width: 20%;
     float: right;
 }
 
@@ -30,7 +30,7 @@ a {
 .date {
     text-align: left;
     position: absolute;
-    left: 73%;
+    left: 73.3%;
     top: 1%;
 }
 
@@ -47,7 +47,7 @@ a {
 }
 
 p {
-    font-size: 20px;
+    font-size: 22px;
 }
 
 .img {
@@ -56,5 +56,5 @@ p {
 }
 
 .icon {
-    width: 13%;
+    width: 15%;
 }    
